@@ -1,3 +1,2 @@
-FROM php:latest
-
-MAINTAINER Sonam
+FROM sonam
+RUN go get github.com/docker-nginx-busybox/dockerfileview

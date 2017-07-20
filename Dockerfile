@@ -1,2 +1,2 @@
 FROM sonam
-RUN go get github.com/docker-nginx-busybox/dockerfileview
+RUN go get github.com/docker-nginx-busybox

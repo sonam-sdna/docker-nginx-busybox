@@ -1,2 +1,2 @@
 FROM sonam
-RUN go get github.com/docker-nginx-busybox
+RUN go get github.com/sonam-sdna/docker-nginx-busybox
